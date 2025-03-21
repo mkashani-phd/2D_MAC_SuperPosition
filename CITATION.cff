@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kashani"
+  given-names: "SeyedMohammad"
+  orcid: "https://orcid.org/0009-0005-9232-0451"
+- family-names: "Kim"
+  given-names: "Sang"
+- family-names: "Khokhar"
+  given-names: "Ashfaq"
+
+
+  
+title: "2D compound MAC"
+version: 1.0.0
+doi: 
+date-released: 03-20-2025
+url: "https://github.com/mkashani-phd/2D_MAC_SuperPosition.git"
